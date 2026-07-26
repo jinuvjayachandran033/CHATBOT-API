@@ -2,6 +2,7 @@ fastapi
 uvicorn
 google-generativeai
 streamlit
+groq
 python-dotenv
 pydantic
 requests
